@@ -6,7 +6,7 @@
 
 
 - 👋 Some Projects 👋
-- 
+
 - A quiz app built with react https://mayluv17.github.io/quizical/
 - An ecommerce app https://mayluv17.github.io/helelo/
 - A space travel website https://mayluv17.github.io/space
