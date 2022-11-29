@@ -3,8 +3,13 @@
 - 🌱 I’m currently learning svelte
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach | mayowaibrahim009@gmail.com
+
+
 - 👋 Some Projects 👋
-- A quiz app https://mayluv17.github.io/quizical/
+- 
+- A quiz app built with react https://mayluv17.github.io/quizical/
+- An ecommerce app https://mayluv17.github.io/helelo/
+- A space travel website https://mayluv17.github.io/space
 - An app that converts text to speach - https://mayluv17.github.io/textToSpeach
 - A movie Watchlist App - https://mayluv17.github.io/MovieApp
 - A Fun meme generator - https://mayluv17.github.io/memegenerator
