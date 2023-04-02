@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h6 align="center">I am a detailed-oriented, front-end developer with hands-on experience efficiently developing websites and applications using modern HTML, CSS, Javascript, React and Building state-of-the-art, functional, easy to use, user-friendly websites and applications is truly a passion of mine</h6>
+<h5 align="center">I am a detailed-oriented, front-end developer with hands-on experience efficiently developing websites and applications using modern HTML, CSS, Javascript, React and Building state-of-the-art, functional, easy to use, user-friendly websites and applications is truly a passion of mine</h5>
 
 - 🔭 I’m currently working on **An AI powered email response generator**
 
