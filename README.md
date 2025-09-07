@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Well...this often changes**
 
-- 👨‍💻 Some of my projects are available at [https://linktr.ee/mayowaibrahim](https://linktr.ee/mayowaibrahim)
 
 - 🏐 Fun fact: I like drawing and connecting with interesting people
 
-- 📫 How to reach me **mayowaibrahim009@gmail.com**
+[//]: # (- 📫 How to reach me **mayowaibrahim009@gmail.com**)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
